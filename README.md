@@ -1,2 +1,2 @@
 # NodeZipper
-## Node.js code to zip and delete ''node_modules' dirs while walking through each sub-dir
+## Node.js code that walks through each sub-dir as well as zips and delete 'node_modules' dirs
