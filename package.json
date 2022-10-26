@@ -1,0 +1,15 @@
+{
+  "name": "assignment-1",
+  "version": "1.0.0",
+  "description": "code that zips the 'node_modules' folders",
+  "main": "NodeModZipper.js",
+  "scripts": {
+    "start": "node ./NodeZipper.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stuart Daniells - c0829441",
+  "license": "ISC",
+  "dependencies": {
+    "zip-local": "^0.3.5"
+  }
+}
